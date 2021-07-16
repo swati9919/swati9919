@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Swati Dubey 
-- Here my Portfolio https://file:///C:/Users/91745/Desktop/swati9919.github.io/index.html
+- Here my Portfolio file:///C:/Users/91745/Desktop/swati9919.github.io/index.html
 - 👀 I’m interested in Create & Design Something new.
 - 🌱 I’m currently learning web development & Designing.
 - 💞️ I’m looking to collaborate on mind diary.
